@@ -7,4 +7,7 @@ A handful of Unity C# Scripts that can be re-used for future projects and as a r
 
 
 ## Main Contributor
-- Jullian Eliezer Calbay
+Jullian Eliezer Calbay
+
+About Me
+- I am Unity Developer with currently 5 years of programming background, specifically in Unity's C# Assembly. I mainly specialize in 2D and pixel art, but is also versed in 3D and an exposure to VR/AR applications. I am gamer at heart, and the passion the brought me up to gaming, has now been my career in my future.
